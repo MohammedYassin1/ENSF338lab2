@@ -36,4 +36,5 @@ profiler.print_stats()
 #1) A profiler is describes how many calls and how long parts of a program take.
 #2)Profiling relates to the runtime of a program and finding bottlenecks while benchmarking is about a measuring preformance
 #of a system or measuring preformance of specific parts of code.
-#4)
+#4)Most of the execution time goes to the third function, this is indictated by the relatively high tottime and cumtime.
+#while the rest of the functions consume a neglible amount of time in comparison.
